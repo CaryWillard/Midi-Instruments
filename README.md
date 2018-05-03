@@ -1,4 +1,4 @@
-# midi-instruments
+# Midi-Instruments
 
 A library of Overtone MIDI instrument patches
 
